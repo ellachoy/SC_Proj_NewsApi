@@ -37,7 +37,7 @@ class News{
             let img = newData.urlToImage;
             let content = newData.content;
             let url=newData.url
-            console.log(url)
+            // console.log(url)
 
             let newNews1 = new News(author,title,description,date,img,content,url);
            

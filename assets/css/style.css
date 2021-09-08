@@ -8,6 +8,7 @@ h3 {
 }
 img {
   width: 100%;
+  height: 17vh;
 }
 article {
   display: grid;
@@ -29,6 +30,7 @@ section {
 h2,
 p {
   padding: 10px;
+  height: 5vh;
 }
 
 a {
