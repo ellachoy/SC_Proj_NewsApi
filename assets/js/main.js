@@ -8,7 +8,6 @@ class News{
         this.description = description;
         this.date = date;
         this.img = img;
-       
         this.content = content;
         this.url = url;
     }
@@ -42,10 +41,8 @@ class News{
 
             let newNews1 = new News(author,title,description,date,img,content,url);
            
-
             newNews1.pushNews()
         })
- 
     })
 
 
