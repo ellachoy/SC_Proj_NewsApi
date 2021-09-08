@@ -1,0 +1,42 @@
+body {
+  background-color: lightgray;
+}
+h3 {
+  color: green;
+  font-family: roboto, arial;
+  margin: 5%;
+}
+img {
+  width: 100%;
+}
+article {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  grid-template-rows: repeat(3, 3fr);
+  grid-gap: 2%;
+  margin: 5%;
+}
+section {
+  width: 100%;
+  border: 1px solid black;
+  border: none;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 25px;
+}
+h2,
+p {
+  padding: 10px;
+}
+
+a {
+  width: 30%;
+  padding: 10px;
+  border-radius: 7px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
