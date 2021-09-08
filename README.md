@@ -20,3 +20,4 @@ Nachdem du die Daten von der API erhalten hast, kannst du sie verwenden, um die 
 
 ![Bild 08 09 21 um 19 29](https://user-images.githubusercontent.com/79414990/132556701-37b7dc7e-3a09-4e9c-b44a-8eec8aa5b79f.jpg)
 
+## 'READ MORE' wurde verlinked zu der Artikle seite
